@@ -1,3 +1,6 @@
+/* Consolidate CSS to follow semantic strucure of HTML elements */
+
+/*start of CSS*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +10,9 @@
 body {
     background-color: #d9dcd6;
 }
+/*end of CSS*/
 
+/*start of Header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +45,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/*end of header*/
 
 a {
     color: #ffffff;
@@ -86,52 +92,11 @@ p {
     background-color: #2589bd;
 }
 
-<<<<<<< HEAD
-/*
-=======
->>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-<<<<<<< HEAD
-*/
-
 /* consoldated margin-bottom and color for benefit */
 .benefit-properties {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*
-=======
-
->>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-<<<<<<< HEAD
-*/
 
 /* consoldated margin-bottom and text-align for benefit */
 .benefit-properties h3 {
@@ -139,69 +104,12 @@ p {
     text-align: center;
 }
 
-/*
-=======
-
->>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-<<<<<<< HEAD
-*/
-
 /* consoldated block, margin, max-width for bennift */
 .benefit-properties img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-/*
-=======
-
->>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-<<<<<<< HEAD
-*/
 
 /* consolidated margin-bottom, padding, height, font-family, background-color, and color. Renamed to content-properties */
 .content-properties {
@@ -213,59 +121,21 @@ p {
     color: #ffffff;
 }
 
-/*
-=======
-
->>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-<<<<<<< HEAD
-*/
-
-/* consoldated height for images and renamed to content-properties img*/
+/* consoldated height for images and renamed to content-properties */
 .content-properties img {
     max-height: 200px;
 }
 
 
-/*
-=======
 
->>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-<<<<<<< HEAD
-*/
-
-/* consoldated margin and font for h2 and renamed to content-properties h2 */
+/* consoldated margin and font for h2 and renamed to content-properties */
 .content-properties h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-=======
->>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
 
+/* start of footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -276,3 +146,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* end of footer */
