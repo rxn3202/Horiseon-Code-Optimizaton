@@ -86,7 +86,10 @@ p {
     background-color: #2589bd;
 }
 
+<<<<<<< HEAD
 /*
+=======
+>>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +104,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+<<<<<<< HEAD
 */
 
 /* consoldated margin-bottom and color for benefit */
@@ -109,6 +113,9 @@ p {
     color: #ffffff;
 }
 /*
+=======
+
+>>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -123,6 +130,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+<<<<<<< HEAD
 */
 
 /* consoldated margin-bottom and text-align for benefit */
@@ -132,6 +140,9 @@ p {
 }
 
 /*
+=======
+
+>>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -149,6 +160,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+<<<<<<< HEAD
 */
 
 /* consoldated block, margin, max-width for bennift */
@@ -159,6 +171,9 @@ p {
 }
 
 /*
+=======
+
+>>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -185,6 +200,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+<<<<<<< HEAD
 */
 
 /* consolidated margin-bottom, padding, height, font-family, background-color, and color. Renamed to content-properties */
@@ -198,6 +214,9 @@ p {
 }
 
 /*
+=======
+
+>>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -209,6 +228,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+<<<<<<< HEAD
 */
 
 /* consoldated height for images and renamed to content-properties img*/
@@ -218,6 +238,9 @@ p {
 
 
 /*
+=======
+
+>>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -232,6 +255,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+<<<<<<< HEAD
 */
 
 /* consoldated margin and font for h2 and renamed to content-properties h2 */
@@ -239,6 +263,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+=======
+>>>>>>> 084da5e01e7c084db4dec2bf501fe9dee4cfc739
 
 .footer {
     padding: 30px;
