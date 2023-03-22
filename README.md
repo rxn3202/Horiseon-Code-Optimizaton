@@ -24,4 +24,4 @@ THEN I find a concise, descriptive title
 # Mock-Up
 Please view live deployment via git hub: 
 [Horiseon](https://rxn3202.github.io/Module-01-Challenge-Git-CSS-HTML/)
-![Horiseon](social-media-marketing.png)
+![preview](social-media-marketing.png)
