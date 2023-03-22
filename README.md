@@ -1,4 +1,4 @@
-# Module-01-Challenge-Git-CSS-HTML: Code Refractor
+# Horiseon Code Optimization
 
 ## Description
 The codebase of a marketing agency has been improved to enhance accessibility by refactoring the original code. The CSS selectors and properties were consolidated and organized in accordance with the semantic structure of the HTML elements. Additionally, comments were added before each element or section of the page to improve its accessibility. 
